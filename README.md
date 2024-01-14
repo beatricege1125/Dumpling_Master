@@ -4,6 +4,7 @@ Dumpling Master is a restaurant simulation game where the user takes on the role
 
 <img width="401" alt="Screenshot 2024-01-14 171034" src="https://github.com/beatricege1125/Dumpling_Master/assets/92649851/b9bc090f-1d0f-4180-8436-71c3726a8490">
 
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/IqoNESbrOys/0.jpg)](https://www.youtube.com/watch?v=IqoNESbrOys)
 
 ## **_Description_**
 
@@ -40,7 +41,8 @@ In between the day phase and preparation phase, there is a short, optional phase
 
 Finally, in terms of exiting the game, the user can choose to exit in both the day and preparation phases. Their progress will be saved upon exiting the game. 
 
-### **Contact**
+## **_Contact_**
+
 Beatrice Ge
 beatricege1125@gmail.com
 

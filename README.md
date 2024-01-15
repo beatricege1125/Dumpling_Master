@@ -45,6 +45,18 @@ In between the day phase and preparation phase, there is a short, optional phase
 
 Finally, in terms of exiting the game, the user can choose to exit in both the day and preparation phases. Their progress will be saved upon exiting the game. 
 
+
+## **_Usage_**
+
+1. Download Eclipse IDE for Java Developers: https://www.eclipse.org/downloads/packages/
+2. Import project from GitHub to Eclipse within the Eclipse menu: file -> import -> Git -> projects from Git
+3. Enter the repository URL: https://github.com/beatricege1125/Dumpling_Master.git
+4. Download the Initial Game Data.txt file
+5. Once downloaded, copy the path of the file by right-clicking it and selecting "copy as path"
+6. In the main method of the code, scroll to line 93 and replace "C:\\Users\\beatr\\Downloads\\" with the copied path
+7. Run the program and enjoy running a dumpling restaurant!
+
+
 ## **_Contact_**
 
 Beatrice Ge

@@ -1,0 +1,149 @@
+Restaurant Name: [RESTAURANT NAME]
+Current Day: 1
+Current Balance: $50.0
+
+Rent: $10.0
+Number of Orders Each Day: 3
+Is Day: true
+
+Number of Cook Methods: 3
+Number of Doughs: 1
+Number of Sauces: 2
+Number of Ingredients: 5
+Number of Locked Ingredients: 15
+
+
+Cook Methods: 
+
+Name: Boiled
+Cost: $2.0
+
+Name: Steamed
+Cost: $3.0
+
+Name: Pan-fried
+Cost: $3.0
+
+
+Doughs: 
+
+Name: Regular
+Cost: $0.3
+Quantity: 5
+
+
+Sauces: 
+
+Name: Soy Sauce
+Cost: $0.2
+Quantity: 5
+
+Name: Vinegar Sauce
+Cost: $0.3
+Quantity: 5
+
+
+Ingredients: 
+
+Vegetable
+Name: Chive
+Cost: $0.7
+Quantity: 5
+
+Vegetable
+Name: Scallion
+Cost: $0.8
+Quantity: 5
+
+Vegetable
+Name: Garlic
+Cost: $1.0
+Quantity: 5
+
+Meat
+Name: Pork
+Cost: $3.0
+Quantity: 5
+
+Seafood
+Name: Shrimp
+Cost: $7.0
+Quantity: 5
+
+
+Locked Ingredients: 
+
+Dough
+Name: Whole Wheat
+Cost: $0.5
+Quantity: 5
+
+Dough
+Name: Gluten-Free
+Cost: $0.6
+Quantity: 5
+
+Vegetable
+Name: Cabbage
+Cost: $0.6
+Quantity: 5
+
+Vegetable
+Name: Ginger
+Cost: $1.2
+Quantity: 5
+
+Vegetable
+Name: Bok Choy
+Cost: $0.8
+Quantity: 5
+
+Vegetable
+Name: Mushroom
+Cost: $2.0
+Quantity: 5
+
+Vegetable
+Name: Daikon
+Cost: $1.5
+Quantity: 5
+
+Meat
+Name: Beef
+Cost: $4.0
+Quantity: 5
+
+Meat
+Name: Lamb
+Cost: $6.0
+Quantity: 5
+
+Meat
+Name: Egg
+Cost: $0.3
+Quantity: 5
+
+Seafood
+Name: Salmon
+Cost: $9.0
+Quantity: 5
+
+Seafood
+Name: Crab
+Cost: $15.0
+Quantity: 5
+
+Sauce
+Name: Sweet Vinegar Sauce
+Cost: $0.4
+Quantity: 5
+
+Sauce
+Name: Spicy Sauce
+Cost: $0.3
+Quantity: 5
+
+Sauce
+Name: Duck Sauce
+Cost: $0.5
+Quantity: 5

@@ -53,8 +53,12 @@ Finally, in terms of exiting the game, the user can choose to exit in both the d
 3. Enter the repository URL: https://github.com/beatricege1125/Dumpling_Master.git
 4. Download the Initial Game Data.txt file
 5. Once downloaded, copy the path of the file by right-clicking it and selecting "copy as path"
-6. In the main method of the code, scroll to line 93 and replace "C:\\Users\\beatr\\Downloads\\" with the copied path
-7. Run the program and enjoy running a dumpling restaurant!
+6. In the main method of the code, scroll to line 93 and replace "C:\\\Users\\\runiu\\\Desktop\\\\" with the copied path (stay within the quotations)
+
+   <img width="438" alt="snippet" src="https://github.com/beatricege1125/Dumpling_Master/assets/92649851/a73a83d6-c59a-4ff8-b117-54929efa932d">
+
+8. Save and run the program
+9. Enjoy managing your own dumpling restaurant!
 
 
 ## **_Contact_**
